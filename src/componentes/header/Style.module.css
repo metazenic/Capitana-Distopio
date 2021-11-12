@@ -1,4 +1,11 @@
+.cabezal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--colorSecundario);
+  padding: 25px;
+}
+
 .titulo {
-    background-color: #ABEBC6;
-    color: #196F3D ;
+  color: var(--colorPrincipal);
 }
