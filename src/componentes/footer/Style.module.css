@@ -1,0 +1,9 @@
+.pie {
+  display: flex;
+  background-color: var(--colorPrincipal);
+  padding: 10px;
+}
+
+.codigoAbierto {
+  color: var(--colorSecundario);
+}
